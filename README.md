@@ -9,6 +9,12 @@ My name is Lei Zhang!
 - 🤔 I’m looking for help with how to be a good father.
 - ⚡ Fun fact: I’ll have a baby!!!
 
+### Lei Zhang's Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [lovchun.com](https://lovchun.com/).
+
+It build with Nextjs & MDX, Deployed on Vercel.
+
 ### Lei Zhang's Techologies
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=121212&color=007ACC)
