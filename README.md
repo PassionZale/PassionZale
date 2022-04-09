@@ -2,14 +2,14 @@
 
 # Hey there <img src="./assets/wave.gif" width="30px" />
 
-My name is Lei Zhang! 
+My name is Lei Zhang!
 
 - 🔭 I’m Front-end engineer, currently working on Wuhan.
 - 🌱 I enjoy building tool, writing documentation, and CI/CD to improve developer experience.
 - 🤔 I’m looking for help with how to be a good father.
 - ⚡ Fun fact: I’ll have a baby!!!
 
-### TECHNOLOGIES
+### Lei Zhang's Techologies
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&labelColor=121212&color=007ACC)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=121212&color=F7DF1E)
@@ -26,14 +26,10 @@ My name is Lei Zhang!
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=121212&color=E34F26)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=121212&color=1572B6)
 
-### GitHub Stats
+### Lei Zhang's Top Langs
 
-<a href="https://github.com/PassionZale/PassionZale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PassionZale&layout=compact&theme=radical" alt="Lei Zhang's Top Lang"/>
-</a>
+[![Lei Zhang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionZale&layout=compact&theme=radical)](https://github.com/PassionZale/PassionZale)
 
-<a href="https://github.com/PassionZale/PassionZale">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PassionZale&show_icons=true&theme=radical" alt="Lei Zhang's GitHub Stats" />
-</a>
+### Lei Zhang's GitHub Stats
 
-
+[![Lei Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=PassionZale&show_icons=true&theme=radical)](https://github.com/PassionZale/PassionZale)
