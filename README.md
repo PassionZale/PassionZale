@@ -1,6 +1,6 @@
-### Hi there 👋
+[![Header](./assets/readme_header.png "Header")](https://lovchun.com/)
 
-![readme_header](./assets//readme_header.png)
+### Hi ! <img src="./assets/wave.gif" width="30px" />
 
 <!--
 **PassionZale/PassionZale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
