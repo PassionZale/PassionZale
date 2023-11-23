@@ -11,7 +11,7 @@ My name is Lei Zhang!
 
 ### Lei Zhang's Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [lovchun.com](https://lovchun.com/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [lovchun.com](https://www.lovchun.com/).
 
 It build with Nextjs & MDX, Deployed on Vercel.
 
