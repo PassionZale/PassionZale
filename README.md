@@ -31,11 +31,3 @@ It build with Nextjs & MDX, Deployed on Vercel.
 ![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&labelColor=121212&color=CC6699)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=121212&color=E34F26)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&labelColor=121212&color=1572B6)
-
-### Lei Zhang's Top Langs
-
-[![Lei Zhang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PassionZale&layout=compact&theme=radical)](https://github.com/PassionZale/PassionZale)
-
-### Lei Zhang's GitHub Stats
-
-[![Lei Zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=PassionZale&show_icons=true&theme=radical)](https://github.com/PassionZale/PassionZale)
