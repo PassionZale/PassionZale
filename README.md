@@ -15,7 +15,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 It was build with Nextjs & MDX, Deployed on Vercel,
 
-I refactored website in 2023,
+I refactored this website in 2023,
 
 Now it's build with Astro & MD.
 
