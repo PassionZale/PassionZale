@@ -9,9 +9,9 @@ My name is Lei Zhang!
 - 🤔 I’m looking for help with how to be a good father.
 - ⚡ My baby is one year old！
 
-### Lei Zhang's Blog & Writing
+### Lei Zhang's Articles & happiness
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [lovchun.com](https://www.lovchun.com/).
+Apart from coding, I also maintain a blog - you can find my articles & happiness on my website at [lovchun.com](https://www.lovchun.com/).
 
 It was build with Nextjs & MDX, Deployed on Vercel,
 
