@@ -13,7 +13,7 @@ My name is Lei Zhang!
 
 Apart from coding, I also maintain a blog - you can find my articles & happiness on my website at [lovchun.com](https://www.lovchun.com/).
 
-It was build with Nextjs & MDX, Deployed on Vercel,
+It was build with Nextjs & MDX, Deployed on Vercel before,
 
 I refactored this website in 2023,
 
