@@ -7,7 +7,7 @@ My name is Lei Zhang!
 - 🔭 I’m Front-end engineer, currently working on Wuhan.
 - 🌱 I enjoy building tool, writing documentation, and CI/CD to improve developer experience.
 - 🤔 I’m looking for help with how to be a good father.
-- ⚡ My baby is one year old！
+- ⚡ My baby is two year old！
 
 ### Lei Zhang's Articles & happiness
 
