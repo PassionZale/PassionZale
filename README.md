@@ -2,13 +2,13 @@
 
 I'm **Lei Zhang**, a.k.a. **PassionZale**.
 
-**I lived and breathed code before AI came along.**
+I lived and breathed code before **AI** came along.
+
+Goodbye to my code, goodbye to my passion.
+
+I still **write** it, but the **flow** is gone.
 
 ### Built with Coding Agents
-
-> AI came along. Goodbye to my code, goodbye to my passion.
->
-> I still write it, but the flow is gone.
 
 - **[imh](https://github.com/PassionZale/imh)** - A minimal personal status page to share what I'm up to
 - **[programming-book](https://github.com/PassionZale/programming-book)** - A curated directory of Claude Code plugins and resources (WIP)
