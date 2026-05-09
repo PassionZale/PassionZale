@@ -2,11 +2,11 @@
 
 I'm **Lei Zhang**, a.k.a. **PassionZale**.
 
-I lived and breathed code before **AI** came along.
+I coded with passion before the AI boom.
 
-Goodbye to my code, goodbye to my passion.
+I still write code, but the passion is gone.
 
-I still **write** it, but the **flow** is gone.
+> Goodbye to my code. Goodbye to my passion.
 
 ### Built with Coding Agents
 
