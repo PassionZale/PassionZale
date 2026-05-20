@@ -1,6 +1,6 @@
 ## Hi, I'm PassionZale 👋
 
-I'm **Lei Zhang**, a.k.a. **zale**.
+I'm **Lei Zhang**, a.k.a. **Lei**.
 
 I coded with passion before the AI boom.
 
