@@ -11,7 +11,7 @@ I still write code, but the passion is gone.
 ### Built with Coding Agents
 
 - 📍 **[imh](https://github.com/PassionZale/imh)** - A minimal personal status page to share what I'm up to
-- 🔌 **[programming-book](https://github.com/PassionZale/programming-book)** - A curated directory of Claude Code plugins and resources (WIP)
+- 🧰 **[skills](https://github.com/PassionZale/skills)** - A curated collection of agent skills, with third-party picks and custom-built modules
 
 ### Side Projects for Fun
 
