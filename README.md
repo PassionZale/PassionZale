@@ -12,6 +12,7 @@ I still write code, but the passion is gone.
 
 - 📍 **[imh](https://github.com/PassionZale/imh)** - A minimal personal status page to share what I'm up to
 - 🧰 **[skills](https://github.com/PassionZale/skills)** - A curated collection of agent skills, with third-party picks and custom-built modules
+- 🧠 **[agents](https://github.com/PassionZale/agents)** - WIP
 
 ### Side Projects for Fun
 
